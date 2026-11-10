@@ -1,0 +1,561 @@
+{
+  "version": 1,
+  "status": "user-approved-public-prototype",
+  "approved": "2026-11-09",
+  "rightsNote": "All files are approved for the local prototype. On 2026-11-10 the user explicitly confirmed public use of the selected Rotyka crest, edited group photograph, nine member portraits and seven archive scenes, and creation of rotykacom/rotyka-prototyp-b with GitHub Pages. Only the 26 files in publicSelection have public-prototype approval. Authorship and third-party licenses were not independently verified.",
+  "sourceInventory": "docs/04-inventar-medii.csv",
+  "files": [
+    {
+      "file": "crest.png",
+      "source": "wp-content/uploads/2025/11/erb.gif",
+      "sourceSha256": "6ce4699e86588ac974331b1d8bde83c24a14a2c5038dbcdc0df566a425323d8b",
+      "width": 164,
+      "height": 262,
+      "bytes": 12637,
+      "sha256": "4a8250bf77acb71d88ea582bccf5bcfb451111323e34b46eb3ca67eada170482",
+      "usage": "Site identity: original Rotyka crest",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "hero.jpg",
+      "source": "wp-content/uploads/2026/07/2010_libusin3.jpg",
+      "sourceSha256": "f7e3b6eafe7dd2d8c855e51a98782e63f584495181a270f4ada8c2ae7b094222",
+      "width": 1200,
+      "height": 797,
+      "bytes": 149858,
+      "sha256": "cc92550a9c33ab7f4c4a838ce65a543282bd26cb87247da2ed8a2ff5c6261566",
+      "usage": "Home hero; historical armoured formation",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "hero-640.jpg",
+      "source": "wp-content/uploads/2026/07/2010_libusin3.jpg",
+      "sourceSha256": "f7e3b6eafe7dd2d8c855e51a98782e63f584495181a270f4ada8c2ae7b094222",
+      "width": 640,
+      "height": 425,
+      "bytes": 59660,
+      "sha256": "2101f3db903159b1dd1522a5d4d4207e59a74390e0b4282ee4553d49d734d7cc",
+      "usage": "Home hero responsive thumbnail",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-frydlant.jpg",
+      "source": "wp-content/uploads/2026/07/2007_frydlant2.jpg",
+      "sourceSha256": "85b2dbee50ff44368005f80d93b9af264a42af8f936ac95cf72038b7eef3984e",
+      "width": 1400,
+      "height": 931,
+      "bytes": 346888,
+      "sha256": "821f630d134416fdb5231c7fda4e895cba5e2e4cdd0d87858e32e4aa98b889b5",
+      "usage": "Frydlant; pike combat",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-frydlant-640.jpg",
+      "source": "wp-content/uploads/2026/07/2007_frydlant2.jpg",
+      "sourceSha256": "85b2dbee50ff44368005f80d93b9af264a42af8f936ac95cf72038b7eef3984e",
+      "width": 640,
+      "height": 426,
+      "bytes": 89824,
+      "sha256": "e05ea34944d3a77f1a261d892cf600f00790fa09d8c538865f4963529d5bb22f",
+      "usage": "Thumbnail: Frydlant; pike combat",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-archery.jpg",
+      "source": "wp-content/uploads/2026/07/2009_herstmonceux.jpg",
+      "sourceSha256": "40fa1f4fc2a3eb63cd9c4894433743463da58c2599df632c8a3d5e4d8bc5529d",
+      "width": 1050,
+      "height": 1400,
+      "bytes": 355325,
+      "sha256": "2329ebb23cb36f08e8819df13f315dd670396e3445de71804ffe321d90128c5c",
+      "usage": "Archery demonstration",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-archery-640.jpg",
+      "source": "wp-content/uploads/2026/07/2009_herstmonceux.jpg",
+      "sourceSha256": "40fa1f4fc2a3eb63cd9c4894433743463da58c2599df632c8a3d5e4d8bc5529d",
+      "width": 480,
+      "height": 640,
+      "bytes": 81051,
+      "sha256": "f4159d47e809eddc36819ce316e5eecb8e8006ef876aaa959b662f0d95f2908a",
+      "usage": "Thumbnail: Archery demonstration",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-camp.jpg",
+      "source": "wp-content/uploads/2026/07/2011_klamovka2.jpg",
+      "sourceSha256": "36abbb8696c0b54c5f3102caeb7632e9cdd2417714a973aaf9c871841eb79e8a",
+      "width": 1400,
+      "height": 933,
+      "bytes": 374200,
+      "sha256": "48b53d320036579d11fd299d0dffc8ef9b458bb67336ec8f8a3302fb29397048",
+      "usage": "Historical camp",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-camp-640.jpg",
+      "source": "wp-content/uploads/2026/07/2011_klamovka2.jpg",
+      "sourceSha256": "36abbb8696c0b54c5f3102caeb7632e9cdd2417714a973aaf9c871841eb79e8a",
+      "width": 640,
+      "height": 427,
+      "bytes": 93352,
+      "sha256": "aeba485bbcddd92cc52fcab947574d8a074487e9cd03c4dc1d92f94971fa1530",
+      "usage": "Thumbnail: Historical camp",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-libusin.jpg",
+      "source": "wp-content/uploads/2026/07/2013_libusin.jpg",
+      "sourceSha256": "1540b043d17170b9db485be3581a900f8e146d7a0e30014972720386c354ca5d",
+      "width": 1400,
+      "height": 933,
+      "bytes": 343375,
+      "sha256": "a637b9b96d1f5021a68d1c5bb33a111717303d975eb2364d299a3fd590361d89",
+      "usage": "Historical group with banners",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-libusin-640.jpg",
+      "source": "wp-content/uploads/2026/07/2013_libusin.jpg",
+      "sourceSha256": "1540b043d17170b9db485be3581a900f8e146d7a0e30014972720386c354ca5d",
+      "width": 640,
+      "height": 427,
+      "bytes": 85638,
+      "sha256": "d344d8b6a589b560a6527ede6b5e0821e6d615ce2f79da4efd1ae8f153bb2cea",
+      "usage": "Thumbnail: Historical group with banners",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-fencing.jpg",
+      "source": "wp-content/uploads/2026/07/2009_vikarka.jpg",
+      "sourceSha256": "26b0a0e1bb9f5993c0f353d2b4d67f4051116ec19ce420b423c9a1238221ae74",
+      "width": 1400,
+      "height": 1050,
+      "bytes": 229924,
+      "sha256": "9bc0812b909d5c50d40686ab4ef30439211ad4ee39fd77dcf958750438796370",
+      "usage": "Two historical fencers",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-fencing-640.jpg",
+      "source": "wp-content/uploads/2026/07/2009_vikarka.jpg",
+      "sourceSha256": "26b0a0e1bb9f5993c0f353d2b4d67f4051116ec19ce420b423c9a1238221ae74",
+      "width": 640,
+      "height": 480,
+      "bytes": 60285,
+      "sha256": "51cb83faabc668b26178c5998f90d42ae3468c63d912c19467fd54e2c30d8388",
+      "usage": "Thumbnail: Two historical fencers",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-rome-cs.jpg",
+      "source": "wp-content/uploads/2026/07/2010_rim2-scaled.jpg",
+      "sourceSha256": "71b59f3ce0aa281ac29e8fb3c5ae20fb2035c15bb92fb17b9e4d2ceb59269e44",
+      "width": 1400,
+      "height": 1050,
+      "bytes": 281640,
+      "sha256": "4589ac6760d83c58710aa4d80fc7dce948276e9f3c6ccbf4f2729d0d0f89946b",
+      "usage": "Original CS-only gallery item; Rome",
+      "locales": [
+        "cs"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "gallery-rome-cs-640.jpg",
+      "source": "wp-content/uploads/2026/07/2010_rim2-scaled.jpg",
+      "sourceSha256": "71b59f3ce0aa281ac29e8fb3c5ae20fb2035c15bb92fb17b9e4d2ceb59269e44",
+      "width": 640,
+      "height": 480,
+      "bytes": 77309,
+      "sha256": "2cf4466aaf79bd0c1a46fa09ad8e36327fb238bb7f720474e7ebe74ad18f0946",
+      "usage": "Thumbnail: Original CS-only gallery item; Rome",
+      "locales": [
+        "cs"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-fanda.png",
+      "source": "wp-content/uploads/2025/11/fanda.gif",
+      "sourceSha256": "888f2872ab487a196eed48b21da1ef3ba84ca73368fd3c6bc68b4d682268ef7c",
+      "width": 162,
+      "height": 220,
+      "bytes": 28612,
+      "sha256": "86f7ad50e1a33917ee84169e3dd4629ea90e29b000dc292e80eb6ff155d4d881",
+      "usage": "Existing members index portrait: fanda",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-pepa.png",
+      "source": "wp-content/uploads/2025/11/pepa.gif",
+      "sourceSha256": "6c2d8d7dab6d89bf3a4c71683ddbdc5465e98da3d1458d750079c24d168a43a7",
+      "width": 163,
+      "height": 220,
+      "bytes": 20120,
+      "sha256": "93e88ef9045b49567c6e1fa16a9e45e5f315cfee85b34d6786d1915ecb82d1a7",
+      "usage": "Existing members index portrait: pepa",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-mirek.png",
+      "source": "wp-content/uploads/2025/11/mirek.gif",
+      "sourceSha256": "abf3f85601ae168ee3add08d8becc86be69234eef2c59b38f4938baa42962252",
+      "width": 164,
+      "height": 220,
+      "bytes": 24855,
+      "sha256": "230fe95f363ec7953263c3537521152379b3a5e0d7576ade35757995559ade26",
+      "usage": "Existing members index portrait: mirek",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-david.png",
+      "source": "wp-content/uploads/2025/11/david.gif",
+      "sourceSha256": "4384622849944a708550a90f668a901230a3a4feb143c541edda0dacf763c41b",
+      "width": 168,
+      "height": 220,
+      "bytes": 25239,
+      "sha256": "ac8a51ae3daa939c5d49f7b56dccd6ec726f59f07217394e0fd9c15a938c3999",
+      "usage": "Existing members index portrait: david",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-lenka.png",
+      "source": "wp-content/uploads/2025/11/lenka.gif",
+      "sourceSha256": "401e935c4b3311d69c3e554170825a9f72668c421c55aea8e86b6099cab4cc85",
+      "width": 163,
+      "height": 220,
+      "bytes": 30590,
+      "sha256": "c10dea8eafbf64e74dfaeaf1de71e43c5c9879dcee356333fa9fc90bceec481e",
+      "usage": "Existing members index portrait: lenka",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-pasik.png",
+      "source": "wp-content/uploads/2025/11/Pasik.gif",
+      "sourceSha256": "b216c2cd399327ca8aa79c049997757abd8b26cbb03840eaf79fcb5d910533b7",
+      "width": 164,
+      "height": 220,
+      "bytes": 25489,
+      "sha256": "1ada30c549d053c0a54b86a5b8869f287d13e713395c8b5712034f8e22fe62d1",
+      "usage": "Existing members index portrait: pasik",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-karel.png",
+      "source": "wp-content/uploads/2025/11/karel.gif",
+      "sourceSha256": "eed0f25abc8c8a5ceaec1dbd504b6749660a87627d41d62a592d6786fed5ab97",
+      "width": 164,
+      "height": 220,
+      "bytes": 22094,
+      "sha256": "b4b44aa674d8b827091b7f7c112b71190972a7fa58bcfc4dcbe2f98b0431df0f",
+      "usage": "Existing members index portrait: karel",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-josef.png",
+      "source": "wp-content/uploads/2025/11/josef_d.gif",
+      "sourceSha256": "d05f64ffb28d8e8ff95b53511899c528cf7f24821ddddc892df01328793cf24c",
+      "width": 171,
+      "height": 220,
+      "bytes": 25923,
+      "sha256": "8beb33fed6d12e836ebcae1b2ce3d119bb06c6c05bb5be23e35e4157c98bde39",
+      "usage": "Existing members index portrait: josef",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "member-honza.jpg",
+      "source": "wp-content/uploads/2026/01/honza-2.jpg",
+      "sourceSha256": "be84da8ff0861e6cc2bd707ba5aca015ac47feef2d505099cd1e19e13365f6a9",
+      "width": 131,
+      "height": 220,
+      "bytes": 8770,
+      "sha256": "3106090b49a463b4d513f44f518862df37dc22bff80cb9188a715c079bc32f79",
+      "usage": "Existing members index portrait: Honza",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "author": null,
+      "license": null,
+      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
+      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "group-styled.jpg",
+      "source": "wp-content/uploads/2026/01/uvod-9.png",
+      "sourceSha256": "8a48d61d2de4c113d8608d71d3b896ba41a334b51046f27b82c36037bb835f56",
+      "width": 1400,
+      "height": 1050,
+      "bytes": 203032,
+      "sha256": "80479866935dc7b3c6aee8d875ba721ab41882ef181753cb8798ed599adfcc0a",
+      "usage": "Shared Home/About group photograph: AI-assisted edge cleanup and dark forest-green background replacement",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "approved": "2026-11-10",
+      "approvalNote": "User explicitly confirmed public use of this edited group photograph in the separate public prototype repository and on GitHub Pages on 2026-11-10.",
+      "author": null,
+      "license": null,
+      "provenance": "Derived from existing group.png and original inventory-verified uvod-9.png; background edited with built-in image_gen, not an unmodified archive photo",
+      "processing": "AI-assisted background replacement and edge cleanup; JPEG resize without cropping, quality 85, no source metadata",
+      "publicationApproved": "2026-11-10"
+    },
+    {
+      "file": "group-styled-640.jpg",
+      "source": "wp-content/uploads/2026/01/uvod-9.png",
+      "sourceSha256": "8a48d61d2de4c113d8608d71d3b896ba41a334b51046f27b82c36037bb835f56",
+      "width": 640,
+      "height": 480,
+      "bytes": 58603,
+      "sha256": "bfc71521c314ec5605cb2df7d2828639dad0a5f21007987ba9b1e2fd5b4d9985",
+      "usage": "Shared Home/About group photograph: AI-assisted edge cleanup and dark forest-green background replacement",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "approved": "2026-11-10",
+      "approvalNote": "User explicitly confirmed public use of this edited group photograph in the separate public prototype repository and on GitHub Pages on 2026-11-10.",
+      "author": null,
+      "license": null,
+      "provenance": "Derived from existing group.png and original inventory-verified uvod-9.png; background edited with built-in image_gen, not an unmodified archive photo",
+      "processing": "AI-assisted background replacement and edge cleanup; JPEG resize without cropping, quality 85, no source metadata",
+      "publicationApproved": "2026-11-10"
+    }
+  ],
+  "publicationStatus": "user-approved-public-prototype",
+  "publicationApproved": "2026-11-10",
+  "publicSelection": [
+    "crest.png",
+    "gallery-archery-640.jpg",
+    "gallery-archery.jpg",
+    "gallery-camp-640.jpg",
+    "gallery-camp.jpg",
+    "gallery-fencing-640.jpg",
+    "gallery-fencing.jpg",
+    "gallery-frydlant-640.jpg",
+    "gallery-frydlant.jpg",
+    "gallery-libusin-640.jpg",
+    "gallery-libusin.jpg",
+    "gallery-rome-cs-640.jpg",
+    "gallery-rome-cs.jpg",
+    "group-styled-640.jpg",
+    "group-styled.jpg",
+    "hero-640.jpg",
+    "hero.jpg",
+    "member-david.png",
+    "member-fanda.png",
+    "member-honza.jpg",
+    "member-josef.png",
+    "member-karel.png",
+    "member-lenka.png",
+    "member-mirek.png",
+    "member-pasik.png",
+    "member-pepa.png"
+  ]
+}
