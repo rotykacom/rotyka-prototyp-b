@@ -346,26 +346,6 @@
       "publicationApproved": "2026-11-10"
     },
     {
-      "file": "member-honza.jpg",
-      "source": "wp-content/uploads/2026/01/honza-2.jpg",
-      "sourceSha256": "be84da8ff0861e6cc2bd707ba5aca015ac47feef2d505099cd1e19e13365f6a9",
-      "width": 131,
-      "height": 220,
-      "bytes": 8770,
-      "sha256": "3106090b49a463b4d513f44f518862df37dc22bff80cb9188a715c079bc32f79",
-      "usage": "Existing members index portrait: Honza",
-      "locales": [
-        "cs",
-        "en"
-      ],
-      "rights": "user-approved-public-prototype",
-      "author": null,
-      "license": null,
-      "provenance": "Existing Rotyka website backup; source hash matched docs/04-inventar-medii.csv",
-      "processing": "Resize without upscale; re-encode without source metadata; no retouching",
-      "publicationApproved": "2026-11-10"
-    },
-    {
       "file": "group-styled.jpg",
       "source": "wp-content/uploads/2026/01/uvod-9.png",
       "sourceSha256": "8a48d61d2de4c113d8608d71d3b896ba41a334b51046f27b82c36037bb835f56",
@@ -2343,6 +2323,24 @@
       "approved": "2026-11-11",
       "generatedBy": "legacy-import",
       "processing": "Resize without upscaling; metadata-free re-encoding; no retouching"
+    },
+    {
+      "file": "member-honza-review.jpg",
+      "source": "User-provided profilovka.jpg",
+      "sourceSha256": "4d52b43c78c6e68a060e23dda4683765576dda0a6f61da4d0f18e725a551544d",
+      "width": 901,
+      "height": 896,
+      "bytes": 219704,
+      "sha256": "4d52b43c78c6e68a060e23dda4683765576dda0a6f61da4d0f18e725a551544d",
+      "usage": "Honza member portrait, oval crop with visible pike shaft",
+      "locales": [
+        "cs",
+        "en"
+      ],
+      "rights": "user-approved-public-prototype",
+      "approved": "2026-11-12",
+      "processing": "Uploaded metadata-free JPEG retained; oval and zoom applied with CSS; no face retouching",
+      "publicationApproved": "2026-11-12"
     },
     {
       "file": "gallery/9b1e0dd6559d6277768442c6-full.jpg",
@@ -4835,7 +4833,6 @@
     "member-pasik.png",
     "member-karel.png",
     "member-josef.png",
-    "member-honza.jpg",
     "group-styled.jpg",
     "group-styled-640.jpg",
     "legacy/5224d357df069aebaa733c98-full.jpg",
@@ -4967,6 +4964,7 @@
     "legacy/6d08541d44d40dcc758d79dd-thumb.jpg",
     "legacy/2c474bf4048c61836fb3f1d6-full.jpg",
     "legacy/2c474bf4048c61836fb3f1d6-thumb.jpg",
+    "member-honza-review.jpg",
     "gallery/9b1e0dd6559d6277768442c6-full.jpg",
     "gallery/9b1e0dd6559d6277768442c6-thumb.jpg",
     "gallery/d683fb70fb71b37782edc306-full.jpg",
